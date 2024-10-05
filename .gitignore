@@ -1,1 +1,7 @@
 tags
+**/.idea
+**/*.swp
+
+client/out
+engine/out
+**/*.iml
